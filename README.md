@@ -3,5 +3,10 @@
 
 HELLOOOOOOOOOOO!!
 
+<<<<<<< HEAD
 
 hi
+=======
+sakdhjfkhasdlkfjlasjdljldsjalj
+saddaslkjfklajdkljsdaklfjalkdj
+>>>>>>> origin/partner2
